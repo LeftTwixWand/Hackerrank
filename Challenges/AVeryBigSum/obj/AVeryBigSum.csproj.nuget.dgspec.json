@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\CompareTheTriplets\\CompareTheTriplets.csproj": {}
+    "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\AVeryBigSum\\AVeryBigSum.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\CompareTheTriplets\\CompareTheTriplets.csproj": {
+    "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\AVeryBigSum\\AVeryBigSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\CompareTheTriplets\\CompareTheTriplets.csproj",
-        "projectName": "CompareTheTriplets",
-        "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\CompareTheTriplets\\CompareTheTriplets.csproj",
+        "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\AVeryBigSum\\AVeryBigSum.csproj",
+        "projectName": "AVeryBigSum",
+        "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\AVeryBigSum\\AVeryBigSum.csproj",
         "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\CompareTheTriplets\\obj\\",
+        "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\Challenges\\AVeryBigSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

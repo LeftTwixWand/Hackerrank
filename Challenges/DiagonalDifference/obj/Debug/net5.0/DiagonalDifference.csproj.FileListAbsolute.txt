@@ -1,0 +1,13 @@
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.exe
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.deps.json
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.json
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.dev.json
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.dll
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.pdb
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csprojAssemblyReference.cache
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfoInputs.cache
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfo.cs
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.dll
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.pdb
+D:\Projects\hackerrank.com\Hackerrank\Challenges\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.genruntimeconfig.cache
