@@ -1,0 +1,12 @@
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.exe
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.deps.json
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.runtimeconfig.json
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.runtimeconfig.dev.json
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.dll
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\bin\x64\Debug\net5.0\Day4 Class vs. Instance.pdb
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.AssemblyInfoInputs.cache
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.AssemblyInfo.cs
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.csproj.CoreCompileInputs.cache
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.dll
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.pdb
+D:\Projects\hackerrank.com\Hackerrank\30 Days Of Code\Day4 Class vs. Instance\obj\x64\Debug\net5.0\Day4 Class vs. Instance.genruntimeconfig.cache
