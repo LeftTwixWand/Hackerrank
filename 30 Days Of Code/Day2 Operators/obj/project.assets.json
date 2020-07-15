@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day2 Operators\\Day2 Operators.csproj",
+      "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day2 Operators\\Day2 Operators.csproj",
       "projectName": "Day2 Operators",
-      "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day2 Operators\\Day2 Operators.csproj",
+      "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day2 Operators\\Day2 Operators.csproj",
       "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day2 Operators\\obj\\",
+      "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day2 Operators\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

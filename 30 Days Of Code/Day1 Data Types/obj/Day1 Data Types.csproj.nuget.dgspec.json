@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj": {}
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj": {
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
+        "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
         "projectName": "Day1 Data Types",
-        "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
+        "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
         "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\obj\\",
+        "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

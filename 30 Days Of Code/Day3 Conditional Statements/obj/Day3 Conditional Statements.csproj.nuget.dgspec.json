@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj": {}
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj": {
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj",
+        "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj",
         "projectName": "Day3 Conditional Statements",
-        "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj",
+        "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\Day3 Conditional Statements.csproj",
         "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\obj\\",
+        "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day3 Conditional Statements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

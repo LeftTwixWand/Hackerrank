@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj": {}
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj": {
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj",
+        "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj",
         "projectName": "Day0 Hello World",
-        "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj",
+        "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\Day0 Hello World.csproj",
         "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\obj\\",
+        "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day0 Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

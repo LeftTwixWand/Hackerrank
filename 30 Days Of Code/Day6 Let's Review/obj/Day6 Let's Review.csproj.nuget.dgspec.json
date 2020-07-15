@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj": {}
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj": {
+    "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
-        "projectName": "Day4 Class vs. Instance",
-        "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
+        "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj",
+        "projectName": "Day6 Let's Review",
+        "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj",
         "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\obj\\",
+        "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

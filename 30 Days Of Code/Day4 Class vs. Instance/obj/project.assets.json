@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
+      "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
       "projectName": "Day4 Class vs. Instance",
-      "projectPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
+      "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\Day4 Class vs. Instance.csproj",
       "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\hackerrank.com\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\obj\\",
+      "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day4 Class vs. Instance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
-      "projectName": "Day1 Data Types",
-      "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\Day1 Data Types.csproj",
+      "projectUniqueName": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj",
+      "projectName": "Day6 Let's Review",
+      "projectPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\Day6 Let's Review.csproj",
       "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day1 Data Types\\obj\\",
+      "outputPath": "D:\\Projects\\Hackerrank\\30 Days Of Code\\Day6 Let's Review\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
