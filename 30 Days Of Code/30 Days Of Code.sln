@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6 Let's Review", "Day6 L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7 Arrays", "Day7 Arrays\Day7 Arrays.csproj", "{2EC66217-E36A-48E9-BC72-1CDA4D173000}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8 Dictionaries and Maps", "Day8 Dictionaries and Maps\Day8 Dictionaries and Maps.csproj", "{DB3EF957-F43A-4721-92F5-BA26717E6B8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{2EC66217-E36A-48E9-BC72-1CDA4D173000}.Release|x64.Build.0 = Release|Any CPU
 		{2EC66217-E36A-48E9-BC72-1CDA4D173000}.Release|x86.ActiveCfg = Release|Any CPU
 		{2EC66217-E36A-48E9-BC72-1CDA4D173000}.Release|x86.Build.0 = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|x64.Build.0 = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Debug|x86.Build.0 = Debug|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|x64.ActiveCfg = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|x64.Build.0 = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|x86.ActiveCfg = Release|Any CPU
+		{DB3EF957-F43A-4721-92F5-BA26717E6B8A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
