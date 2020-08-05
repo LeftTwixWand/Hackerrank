@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day9 Recursion", "Day9 Recu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10 Binary Numbers", "Day10 Binary Numbers\Day10 Binary Numbers.csproj", "{8DEE4982-2FBB-43DC-BEC0-12F191A57736}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11 2D Arrays", "Day11 2D Arrays\Day11 2D Arrays.csproj", "{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,18 @@ Global
 		{8DEE4982-2FBB-43DC-BEC0-12F191A57736}.Release|x64.Build.0 = Release|Any CPU
 		{8DEE4982-2FBB-43DC-BEC0-12F191A57736}.Release|x86.ActiveCfg = Release|Any CPU
 		{8DEE4982-2FBB-43DC-BEC0-12F191A57736}.Release|x86.Build.0 = Release|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|x64.ActiveCfg = Debug|x64
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|x64.Build.0 = Debug|x64
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|x64.ActiveCfg = Release|x64
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|x64.Build.0 = Release|x64
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{3C14D0D3-06B5-46FF-BFD8-B179A172D1DE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
